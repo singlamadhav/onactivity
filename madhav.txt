@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is the file
-=======
-this is the madhav.txt
->>>>>>> 09a83f0472698b6176ef29a42bbfa715ac69bfa0
+hello my name is nikhil
